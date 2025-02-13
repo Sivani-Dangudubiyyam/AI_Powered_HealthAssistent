@@ -33,8 +33,8 @@ pip install streamlit transformers tensorflow nltk tf-keras
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-health-assistant.git
-   cd ai-health-assistant
+   git clone https://github.com/Sivani-Dangudubiyyam/AI_Powered_HealthAssistent.git
+   cd AI_Powered_HealthAssistent
    ```
 2. Run the Streamlit app:
    ```bash
